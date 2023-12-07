@@ -1,9 +1,9 @@
 ---
-layout: post
-title: Blog post title rendered by theme
-subtitle: Blog post subtitle rendered by theme
-tags: welcoming
-comments: true
+layout: Hefran
+title: Dia a Dia Baby
+subtitle: Sou uma bebe fofura
+tags: Bem vindos a minha simples vida fodurices
+comments: Eu sou uma bebe deliiciosa
 ---
 
 This is the first line of rendered content in the post.
